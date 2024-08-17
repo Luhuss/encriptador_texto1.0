@@ -1,45 +1,36 @@
-# Proyecto de Encriptador de Texto
+Encriptador de Texto
+Este proyecto es una aplicación web diseñada para encriptar y desencriptar mensajes de texto de manera sencilla. La interfaz es intuitiva y sigue un diseño minimalista, ofreciendo una experiencia de usuario limpia y accesible.
 
-Este proyecto es una aplicación web simple que permite encriptar y desencriptar mensajes de texto. La interfaz es fácil de usar y sigue una estética minimalista.
+Características
+Encriptar: Convierte un mensaje de texto en un formato encriptado mediante reglas simples.
+Desencriptar: Restaura un mensaje encriptado a su forma original.
+Copiar: Permite copiar el mensaje encriptado o desencriptado al portapapeles con un solo clic.
+Vista Previa
+![Vista previa del Encriptador de Texto](pagina1.png)
 
-## Características
+Cómo Usar
+Encriptar: Escribe el texto que deseas encriptar en el campo de entrada y presiona "Encriptar".
+Desencriptar: Ingresa un mensaje encriptado en el campo y presiona "Desencriptar" para ver el texto original.
+Copiar: Después de encriptar o desencriptar, haz clic en "Copiar" para guardar el texto en el portapapeles.
+Tecnologías Utilizadas
+HTML5: Estructura semántica del contenido.
+CSS3: Estilos y diseño responsivo utilizando Flexbox.
+JavaScript: Lógica para encriptar, desencriptar y manejar la interacción del usuario.
+Instalación y Ejecución
+Clona este repositorio en tu máquina local:
+bash
+Copiar código
+git clone https://github.com/tu-usuario/tu-repositorio.git
+Navega al directorio del proyecto:
+bash
+Copiar código
+cd tu-repositorio
+Abre index.html en tu navegador preferido para ver la aplicación en acción.
+Contribuciones
+Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, siéntete libre de enviar un pull request o abrir un issue.
 
-- **Encriptar**: Convierte un mensaje de texto en un mensaje encriptado.
-- **Desencriptar**: Restaura un mensaje encriptado a su forma original.
-- **Copiar**: Copia el texto encriptado o desencriptado al portapapeles con un solo clic.
+Autor
+Desarrollado por Luis Marabolí. Encuentra más proyectos míos en mi perfil de GitHub.(https://github.com/Luhuss).
 
-## Vista Previa
-
-![Vista previa del Encriptador de Texto](pagina.png)
-
-## Cómo usar
-
-1. **Encriptar**: Ingresa el texto en el campo proporcionado y haz clic en el botón "Encriptar".
-2. **Desencriptar**: Ingresa un mensaje encriptado en el campo y haz clic en "Desencriptar".
-3. **Copiar**: Una vez encriptado o desencriptado el mensaje, haz clic en "Copiar" para guardarlo en el portapapeles.
-
-## Tecnologías Utilizadas
-
-- HTML
-- CSS (con un enfoque en Flexbox para un diseño responsivo)
-- JavaScript
-
-## Instalación
-
-1. Clona el repositorio:
-    ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
-    ```
-2. Navega al directorio del proyecto:
-    ```bash
-    cd tu-repositorio
-    ```
-3. Abre `index.html` en tu navegador.
-
-## Autor
-
-Creado por **Luis Marabolí**. Puedes encontrar más de mis proyectos en mi [GitHub](https://github.com/Luhuss).
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Licencia
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
